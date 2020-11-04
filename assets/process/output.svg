@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect stroke="#B37FEB" fill="#F9F0FF" x="25.5" y="25.5" width="77" height="77" rx="38.5"></rect>
+  <text font-size="20" letter-spacing="2.66666667" fill="#000000" fill-opacity="0.6">
+    <tspan x="44" y="57">任务</tspan>
+    <tspan x="44" y="85">输出</tspan>
+  </text>
+</svg>
